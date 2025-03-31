@@ -1,0 +1,373 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por peruana JVO
+Alex Mamani Pinchi
+21
+B
+Peru
+Ccotatoccla
+8
+tercero
+quechua
+kuraqniyku, taytay
+M
+14/7/2009
+1899-12-31T11:41:00.000
+7
+HPC
+Ana chukchanta rutun. 
+1
+0
+0
+¿kaypiri imatataq Ana rurachkan?
+q'arata… rutuchkan
+¿kaypiri imatataq Ana rurachkan?
+simp'anta kuchukuchkan
+Ana uyanta makch’in. 
+1
+0
+0
+¿kaypiri imatataq Ana rurachkan?
+maqchikuyta munachkan
+¿kaypiri imatataq rurachkan?
+maqchichkan
+José latusta mayllin. <pronuncia latuta>
+1
+0
+0
+¿kaypiri imatataq  rurachkan… José?
+chakinta maqchikuchkan
+¿kaypiri imatataq José rurachkan?
+Anata chakinta maqchichkan
+José chumpata puñuna pataman churan. 
+1
+0
+0
+¿kaypiri imatataq José rurachkan? 
+chaypi churachkan [imata] chumpata 
+¿kaypi imatataq José rurachkan?
+churakuchkan
+Ana makinta mayllikun. 
+1
+0
+0
+¿kaypiri imatataq rurachkan Ana?
+Joseta makinta maqchichkan
+¿kaypiri imatan rurachkan Ana?
+latuta maqchichkan
+José $sumbukuta churakun. <pronuncia $sumbuchuta>
+0
+1
+0
+¿kaypiri imatataq rurachkan?... José
+$sumbuchuwan churakuyta munachkan
+¿kaypiri imatataq rurachkan José?
+Anaman  churachkan 
+Ana uhut'ata churan. <pronuncia usut'ata>
+1
+0
+0
+¿kaypiri imatataq Ana rurachkan? ¿imatan Ana chaypi rurachkan?
+chakinta maq- hampikuchkan
+¿kaypiri imatan rurachkan Ana?
+Joseta mm… nachkan hampichkan [manan, wanqus chay mantanchis kallpachawansis rimanki] ah [ari]
+José kukuchunta hap’ikun.
+1
+0
+0
+¿kaypiri imatataq rurachkan José?
+cuadernuta apamuchkan [kallpachawan ya qaparispa]
+¿kaypiri imatan rurachkan?
+Anata hap'ichkan kukuchunmanta
+Ana awanata hap’in. 
+0
+0
+1
+¿kaypiri imatataq rurachkan?
+rikranmanta hap'ichkan Ana
+¿kaypiri imata rurachkan?
+rikranta hap'ikuchkan
+Ana q’ipita q’ipichikun.
+1
+0
+0
+¿kaypiri imatataq rurachkan? [que hable fuerte porque hay mucha bulla afuera]
+q'ipita hap'ichkan [kallpachawan,kallpachawan]
+¿kaypiri imata rurachkan?
+q'ipita hap'illan
+José misturawan hach’in. 
+1
+0
+0
+¿kaypiri imatataq rurachkan?
+hach'iyuchkan nata
+¿kaypiri? 
+hach'ichkallantaq
+José umanta hap’in. 
+0
+1
+0
+¿kaypiri imatataq rurachkan?
+punkuta kichachkan
+¿anchaypiri?
+umanta hap'ikuchkan
+Ana wirawan mankata llusin. 
+0
+1
+0
+¿kaypiri imatataq rurachkan?
+makinta hampichkan
+¿kaypiri?
+makintañataq hampikuchkan
+José punchuta churakun.
+0
+1
+0
+¿kaypiri imatataq rurachkan?
+punchuta sillitamanta uqarichkan
+¿kaypiri imata rurachkan?
+punchuta Anaman churachkan
+kunanqa kaychata qhawasunchis. Ya, kaymi kachkan huk willakuycha
+ahá
+ari chay willakuymi kachkan wallatamanta waswamantawan,wallata kaynata nichkan: quchamanmi haykusaq runtuchayta qhawaripuwankiman nispa nichkan , chay nispari pasakapun ¿imata chaymanta rurachkan waswa? ¿imata rurachkan?
+puñukuchkan
+puñukuchkan, chay puñunankamari imataq pitaq hamurusqa
+surru
+surru, imatataq chay surru apachkan
+runtuta
+runtuta apachkan, chaymanta rikcharuspa nin iskay runtullañataq mancharirakapun ¿imarayku mancharirakapun?
+iskayllaña
+umm, ¿kaypiri imata rurachkan? Señala dibujo
+qhawachkan
+qhawachkan ¿imata qhawachkan?
+runtuta
+¿kaypiri imatataq rimanakuchkankuman? Señalando ultima escena
+imata apararun nispa
+umm..kusa wawqiy muy bien allin wawqicha chayllan karan misti
+Segmentación
+Alex Mamani Pinchi
+21
+B
+Peru
+Ccotatoccla
+8
+tercero
+quechua
+kuraqniyku, taytay
+M
+HPC
+Análisis y traducción
+Alex Mamani Pinchi
+21
+B
+Peru
+Ccotatoccla
+8
+tercero
+quechua
+kuraqniyku, taytay
+M
+HPC

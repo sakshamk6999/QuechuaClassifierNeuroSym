@@ -1,0 +1,535 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por boliviano AQV
+Juan Carlos Llaveta Roque
+85
+B
+Bolivia
+Collakamani
+9
+tercero
+quechua
+mana
+M
+MCC
+Ana chukchanta rutun. Ana chukchanta rutun. Maypi?  <El niño muestra la b y luego de repetir la pregunta muestra la a> 
+Kaypi Ana, imatachá rurachkan?
+Millmanta uwihapta rutun
+Kaypiri, imatachá Ana rurachkan?
+Chukchán k'utukun
+Ana uyanta uphachkan. 
+Kaypi Ana, imatachá rurachkan?
+Vasu mayllan
+Kaypi Ana, imatachá rurachkan?
+Runap uyanta mayllan
+José latusta mayllan.
+
+Kaypiri, imatachá José rurachkan
+Chakinta mayllakun
+Kaypi, imatachá José rurachklan?
+Chakinta mayllan
+José chumpata puñuna pataman churan. 
+Kaypiri, imatachá José rurachkan?
+Chumpanta churachkan
+Kaypiri, imatachá José rurachkan?
+Chumpan churakun
+Ana makinta mayllakun. 
+Kaypiri, imatachá Ana rurachkan?
+Makinpi yakú hap'ichkan
+Kaypi Ana, imatachá rurachkan?
+T'aqsachkan [T'aqsachkan]
+José $sumbreruta churakun.
+Kaypi, imatachá José rurachkan?
+$sumbirun huqharin
+Kaypi, imatachá José rurachkan?
+Churachkan $sumbiruta
+Ana uhut'ata churan.
+Kaypiri, imatachá Ana rurachkan?
+Uhut'anta churakun
+Kaypi, imatachá Ana rurachkan?
+Uhut'anta lluch'un
+José makimuqunta hap’ikun.
+Kaypiri, imatachá José rurachkan?
+Yachaywasiman rinku
+Kaypiri, imatachá José rurachkan?
+Muqunta hap'ichan
+Ana awanata hap’in. 
+Kaypiri, imatachá Ana rurachkan?
+Tupachkan <mostrando su hombro>
+Kaypiri, imatachá Ana rurachkan?
+Tupuakuchkan kaymanta (tocándose el hombro)
+Ana q’ipita q’ipichikun.
+Kaypi, imatachá Ana rurachkan?
+Q'ipirikun
+Kaypiri, imatachá Ana rurachkan? Imatá rurachkan?
+Q'ipiykukuchkan
+José misturawan ch’aqpan. 
+Kaypi, imatachá rurachkan José?
+Misturawan ch'aqpichkan
+Kaypi, imatá  rurachkan José?
+Misturawan ch'aqpaykun
+José umanta hap’in. 
+Kaypi, imatachá José rurachkan?
+Wichq'anata …
+Kaypi, imatachá José rurachkan?
+Umán tupakuchkan
+Ana wirawan mankata lluchhin. 
+Kaypi, imatachá Ana rurachkan?
+Makinta hampin wirawan
+Kaypiri, imatachá rurachkan Ana?
+Makinta hampikuchkan
+José punchuta churakun.
+Kaypi, imatachá José rurachkan?
+Punchunta, punchunta sillaman warkhun
+Kaypi, imatachá José rurachkan?
+Anaman punchuykun [Ahá, chayqa tukurqunchik]
+Transcripción por peruana JVO
+Juan Carlos Llaveta Roque
+85
+B
+Bolivia
+Collakamani
+9
+tercero
+quechua
+mana
+M
+22/7/2009
+1899-12-31T13:11:00.000
+12
+MCC
+Ana chukchanta rutun. Ana chukchanta rutun. Maypi?  <El niño muestra la b y luego de repetir la pregunta muestra la a> 
+-1
+-1
+-1
+Kaypi Ana, imatachá rurachkan?
+Millmanta uwihaqta rutuchkan <Dice rutuhan>
+Kaypiri, imatachá Ana rurachkan?
+Chukchán& k'utukuchkan
+Ana uyanta uphachkan. 
+1
+0
+0
+Kaypi Ana, imatachá rurachkan?
+Vasu& mayllachkan
+Kaypi Ana, imatachá rurachkan?
+Runaq uyanta mayllachkan
+José latusta mayllan.
+
+1
+0
+0
+Kaypiri, imatachá José rurachkan
+Chakinta mayllakuchkan
+Kaypi, imatachá José rurachklan?
+Chakinta mayllachkan
+José chumpata puñuna pataman churan. 
+0
+1
+0
+Kaypiri, imatachá José rurachkan?
+Chumpanta churachkan
+Kaypiri, imatachá José rurachkan?
+Chumpan& churakuchkan
+Ana makinta mayllakun. 
+1
+0
+0
+Kaypiri, imatachá Ana rurachkan?
+Makinpi yakuta hap'ichkan
+Kaypi Ana, imatachá rurachkan?
+T'aqsachkan [T'aqsachkan]
+José $sumbreruta churakun.
+0
+1
+0
+Kaypi, imatachá José rurachkan?
+$sumbirun& huqarichkan
+Kaypi, imatachá José rurachkan?
+Churachkan $sumbirunta
+Ana uhut'ata churan.
+1
+0
+0
+Kaypiri, imatachá Ana rurachkan?
+Uhut'anta churakuchkan
+Kaypi, imatachá Ana rurachkan?
+Uhut'anta lluch'uchkan
+José makimuqunta hap’ikun.
+1
+0
+0
+Kaypiri, imatachá José rurachkan?
+Yachaywasiman richkanku
+Kaypiri, imatachá José rurachkan?
+Muqunta hap'ichkan
+Ana awanata hap’in. 
+0
+0
+1
+Kaypiri, imatachá Ana rurachkan?
+Tupachkan <mostrando su hombro>
+Kaypiri, imatachá Ana rurachkan?
+Tupakuchkan kayninta (tocándose el hombro)
+Ana q’ipita q’ipichikun.
+0
+1
+0
+Kaypi, imatachá Ana rurachkan?
+Q'ipirikuchkan
+Kaypiri, imatachá Ana rurachkan? Imatá rurachkan?
+Q'ipin& huqarichkan
+José misturawan ch’aqpan. 
+0
+1
+0
+Kaypi, imatachá rurachkan José?
+Misturawan ch'aqpachkan
+Kaypi, imatá  rurachkan José?
+Misturawan ch'aqpaykuchkan
+José umanta hap’in. 
+0
+1
+0
+Kaypi, imatachá José rurachkan?
+Wisq'anata …
+Kaypi, imatachá José rurachkan?
+Umán& tupakuchkan
+Ana wirawan mankata lluchhin. 
+0
+1
+0
+Kaypi, imatachá Ana rurachkan?
+Makinta hampichkan, wirawan
+Kaypiri, imatachá rurachkan Ana?
+Makinta hampikuchkan
+José punchuta churakun.
+0
+1
+0
+Kaypi, imatachá José rurachkan?
+Punchunta, punchunta sillaman warkuchkan
+Kaypi, imatachá José rurachkan?
+Anaman punchuyuchkan [Ahá, chayqa tukurqunchik]
+Allinta qhawasun, allinta qhawasun, kayta qhawasun. A ver. Qaylla qayllamanta kayta qhawanki ¿ya? Kaymanta qhawanki (le señala las figuras) kayta, kayta qhawanki hinaspa chaymanta willawanki, a ver imatan kachkan chaypi, chaykunamanta willawanki ¿ya? 
+kayta leyispa? (muestra el primer texto)
+leyispapis… lluyta qhawariy, lluytaraq qhawariy. ¿Kaypi imanachkanmi? (señala la primera lámina) ¿Kaypi imanachkantaq? (señala la segunda lámina) ¿Kaypi imanachkantaq? (señala la tercera lámina)¿Kaypi imanachkantaq? (señala la cuarta lámina) A ver rikuchkankichu llapanta?
+Arí 
+Arí. A ver, chayta (señalando la figura 1), chayta ñawinchaspapas niwankiman ya. Pikunachá kaypi kachkan.
+Quchaman quchaman anka ankus  ankusaq (lee con dificultad)
+Haykusaq (le corrige el entrevistador)
+(sigue leyendo) runtuchayta qhawaripuway-wanki qhawaripuwanki
+nispa riki? Kay (señala a la huallata) quchaman ripun hinaspa piliman runtuchayta qhawaripuwanki nispa
+Umm
+Chaypirí. Imanachkanmi qhawaripuchkanchu?. Qhawaripuchkanchu?
+Mana qhawapunchu
+Chaykamarí puñurapunchu, imaynachá Ih?
+Puñurapusqa, chaymanta atuq apapuchkan
+runtuta aparapusqa hinasparí, hinaspa kutiyamusqa hinasparí?
+Chay watukun
+Watukun, Chaymantarí?
+Maytaq? Nichkan
+Maytaq nichkan riki?
+Saqikurani chay maytaq, nispa
+Ahá. Hinasparí imanisqataq chaypi, chay huq pili qhawaq imanisqatq. Kaypi watukusqa hinaspa iskayllaña kasqa riki?. Iskay runtullaña nispa qhawarikusqa hinaspa payrí? Chay pilirí imanasqataq? 
+Ripusqa
+Ripusqa, ichaqa churayarapusqachu, imanasqachu runtuchata. Imanasqan?
+Runtunta churayakapun
+churayankampusqa, hinasparí? Kaypi chay hatun pili, hatun wallpa runtun kasqanta riparakunmanchu karan? Watukunmanchu karan
+Watukunman
+Ichaqa mana riki kikiñachu kasqa
+mana kikinchu kasqa
+Chayrayku kaypi kay atuqrí (muestra al zorro) runtunta mikhurapusqachu
+Mana. Apachkan
+Apachkan.Hinaspa kaypi rikuchkanki intita. Qhaway allinta, a ver, imaynataq kachkan kay inti kunan? Imaynan kasqa? 
+Simisniyuq, ñawisniyuq
+Imaynatataq rikunki, kusisqatachu? Phutisqatachu. Imaynan kachkan?. Kusisqachu kachkan, llakisqachu, phutisqachu
+Phutisqa
+Kayrí. Ankay urqurí?
+Llakisqa
+Llakisqa. Kayrí (muestra otro cerro)
+Llakisqa kan
+Llakisqa. Chayllan, chayllan karan. Chaypi tukurapunchis.
+Segmentación
+Juan Carlos Llaveta Roque
+85
+B
+Bolivia
+Collakamani
+9
+tercero
+quechua
+mana
+M
+MCC
+Wisq'a-na-ta …
+Allinta qhawasun, allinta qhawasun, kayta qhawasun. $A ver. Qaylla qayllamanta kayta qhawanki $¿ya? Kaymanta qhawanki (le señala las figuras) kayta, kayta qhawanki hinaspa chaymanta willawanki, $a ver imatan kachkan chaypi, chaykunamanta willawanki $¿ya? 
+kay-ta leyi-spa? (muestra el primer texto)
+leyispapis… lluy-ta qhawariy, lluytaraq qhawariy. ¿Kaypi imanachkanmi? (señala la primera lámina) ¿Kaypi imanachkantaq? (señala la segunda lámina) ¿Kaypi imanachkantaq? (señala la tercera lámina)¿Kaypi imanachkantaq? (señala la cuarta lámina) $A ver, rikuchkankichu llapanta?
+Arí 
+Arí. $A ver, chayta (señalando la figura 1), chayta ñawinchaspapas niwankiman $¿ya?. Pikunachá kaypi kachkan.
+Haykusaq (le corrige el entrevistador)
+nispa riki? Kay (señala a la huallata) quchaman ripun hinaspa piliman runtuchayta qhawaripuwanki nispa
+Umm
+Chaypirí. Imanachkanmi qhawaripuchkanchu?. Qhawaripuchkanchu?
+Chaykamarí puñurapunchu, imaynachá $Ih?
+runtuta aparapusqa hinasparí, hinaspa kutiyamusqa hinasparí?
+Chay watu-ku-n
+Watukun, Chaymantarí?
+Maytaq nichkan riki?
+$Ahá. Hinasparí imanisqataq chaypi, chay huq pili qhawaq imanisqatq. Kaypi watukusqa hinaspa iskayllaña kasqa riki?. Iskay runtullaña nispa qhawarikusqa hinaspa payrí? Chay pilirí imanasqataq? 
+Ripusqa, ichaqa churayarapusqachu, imanasqachu runtuchata. Imanasqan?
+churayankampusqa, hinasparí? Kaypi chay hatun pili, hatun wallpa runtun kasqanta riparakunmanchu karan? Watukunmanchu karan
+Ichaqa mana riki kikiñachu kasqa
+Chayrayku kaypi kay atuqrí (muestra al zorro) runtunta mikhurapusqachu
+Apachkan. Hinaspa kaypi rikuchkanki intita. Qhaway allinta, a ver, imaynataq kachkan kay inti kunan? Imaynan kasqa? 
+Imaynatataq rikunki, kusisqatachu? Phutisqatachu. Imaynan kachkan?. Kusisqachu kachkan, llakisqachu, phutisqachu
+Phuti-sqa
+Kayrí. Ankay urqurí?
+Llaki-sqa
+Llakisqa. Kayrí (muestra otro cerro)
+Llaki-sqa kan
+Llakisqa. Chayllan, chayllan karan. Chaypi tukurapunchis.
+Análisis y traducción
+Juan Carlos Llaveta Roque
+85
+B
+Bolivia
+Collakamani
+9
+tercero
+quechua
+mana
+M
+MCC
+Cerrar-NOM-AC … "El cerroho …"
+Vamos a mirar bien, mirémos bien, veamos esto. A ver. Vas a mirar esto de lado a lado ¿ya? Desde aquí vas a ver (le señala las figuras) ésto, vas a mirar ésto, entonces después me cuentas, a ver qué cosa está allí, acerca de esas cosas me vas a avisar ¿ya? 
+Esta, este, esto-AC leer-SEC/SIM? "¿Leyendo esto?" (muestra el primer texto)
+Aunque sea leyendo… mira todo, mira, mira todo todavía. ¿Qué podría estar diciendo aquí? (señala la primera lámina) ¿Qué está haciendo aquí? (señala la segunda lámina)¿Qué está haciendo aquí? (señala la tercera lámina)¿Qué está haciendo aquí? (señala la cuarta lámina) A ver, estás viendo todo?
+Sí
+Sí. A ver, éso (señalando la figura 1), podrías decirme aunque sea leyendo éso ¿ya?. ¿Quiénes estarán aquí?.
+Entraré (Le corrige el entrevistador)
+diciendo eh? ésta (señala a la huallata) se ha ido a la laguna y diciendole al pili 'me lo vas a ver mi huevito', diciendo ."
+Umm
+Y allí. ¿Qué está haciendo? ¿Se lo está mirando?. ¿Se lo está cuidando?
+¿Mientras eso se durmió? ¿Cómo será? ¿Eh?
+Se lo había llevado el huevo y entonces, entonces había regresado, y después?
+es@ preguntar, averiguar, adivinar-REFL-3SUJ "Esa se ha preguntado."
+Se ha preguntado y después?
+"¿Dónde está? Está diciendo ¿No es cierto?
+Ahá. Y entonces qué le está diciendo allí, el otro pili que está mirando ¿Qué está diciendo?. Aquí preguntando y entonces dos nomás ya había habido ¿verdad?. Se había visto ¡dos huevos nomás ya! diciendo y entonces ella? Y qué está haciendo esa pili? 
+Se había ido, ¿pero se lo había puesto? ¿O qué había hecho el huevito?. ¿Qué había hecho?
+Se lo había ido a poner de nuevo, ¿y después? Aquí se hubiera dado cuenta que era ese gran pili,  esa gallina grande? Se hubiera dado cuenta?
+Pero ya no había sido el mismo ¡no es cierto?
+Por eso aquí este zorro (muestra al zorro) ¿se lo había comido su huevo?."
+"Lo está llevando." "Entonces aquí estás viendo el sol.  A ver, mira bien y cómo está este sol ahora? ¿Cómo está?."
+Y cómo lo ves, alegre? Apenado?. Cómo está? Está alegre? Está triste? Está apenado?
+Apenar-PART/PAS "Apenado."
+Y este?. Y este cerro?
+Tristeza-PART/PAS "Triste."
+Triste. Y éste? (muestra otro cerro)
+Pena, tristeza-PART/PAS estar-3SUJ "Está triste."
+Triste. Eso nomás, eso nomás era. Allí hemos terminado."

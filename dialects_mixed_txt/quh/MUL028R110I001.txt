@@ -1,0 +1,446 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por boliviano AQV
+Carla Vargas Cruz
+110
+A
+Bolivia
+Collakamani
+13
+sexto
+quechua
+Tatay
+F
+MCC
+Ana chukchanta rutun. 
+Kaypi, imatá Ana rurachkan?
+Millmachkan
+Kaypi, imatataq Ana rurachkan?
+Chukchanta [ Allinta rimamunki ya? Kallpawan. Mana uyarichkanchu (Susan dic: No se escucha) Ya ve, mana uyarichkanchu]
+José makimuqunta hap’ikun.
+Kaypi, imatataq José rurachkan?
+Likran…
+Kaypi, imatá José rurachkan?
+Warmita hap'ichkan
+Ana awanata hap’in. 
+Kaypi, imatataq Ana ruran?
+Qharita tupan
+Kaypi, imatataq Ana ruran?
+Maki patata tupakuchkan
+Ana q’ipita q’ipichikun.
+Kaypi, imatataq Ana rurachkan?
+Q'ipirikuchkan
+Kaypiri, imatataq Ana rurachkan?
+Huqharikunayachkan
+José misturawan ch’aqpan. 
+Imatataq kaypi José rurachkan
+Misturá ch'aqpachkan
+Imatataq kaypi José rurachkan?
+xxx
+José umanta hap’in. 
+Kaypiri, imatataq José rurachkan?
+Punkú kichachkan
+Kaypiri, imatataq José rurachkan?
+Umanta tupachkan
+Ana wirawan mankata lluchhin. 
+Kaypi, imatá Ana rurachkan?
+Makín tupachkan
+Kaypi, imatá Ana rurachkan?
+Makín tupakuchkan
+Ana uyanta uphachkan. 
+Kaypi, imatataq Ana rurachkan?
+Uphakuchkan
+Kaypiri, imatá Ana rurachkan?
+Yakuta xxx
+José latusta mayllan.
+
+Kaypiri, imatá José rurachkan?
+Chakín mayllakuchkan
+Kaypiri, imatá José rurachkan?
+Chakín Mayllachkan
+José chumpata puñuna pataman churan. 
+Kaypiri, imatataq José rurachkan?
+Hap'ichkan
+Kaypi, imatataq José rurachkan?
+Chumpa´n churakun
+Ana makinta mayllakun. 
+Kaypi, imatataq Ana ruran?
+Makín mayllachkan
+Kaypi, imatataq Ana rurachkan? Imanachkanmi?
+T'aqsachkan [T'aqsachkan]
+José $sumbreruta churakun.
+Kaypiri, imatá rurachkan José?
+Sumbriru churachkan
+Kaypi, imatá José rurachkan?
+Churachkan $sumbrirota
+Ana uhut'ata churan.
+Kaypiri, imatataq rurachkan?
+Churakuchkan uhut'á
+Kaypi, imatá Ana rurachkan?
+Churachkan uhut'anta
+José punchuta churakun.
+Kaypi, imatá José rurachkan?
+Silla pataman churachkan
+Kaypi, imatá José rurachkan?
+Punchuchichkan [Ya. Kay tukunchik]
+Transcripción por peruana JVO
+Carla Vargas Cruz
+110
+A
+Bolivia
+Collakamani
+13
+sexto
+quechua
+Tatay
+F
+23/7/2009
+1899-12-31T13:57:00.000
+10
+MCC
+Ana chukchanta rutun. 
+1
+0
+0
+Kaypi, imatá Ana rurachkan?
+Millmachkan
+Kaypi, imatataq Ana rurachkan?
+Chukchanta [ Ichaqa allinta rimamunki ya Carlita? Kallpawan. Mana uyarichkanchu (Susan dice: No te escucho) Ya ve, mana uyarichkanchu]
+José makimuqunta hap’ikun.
+1
+0
+0
+Kaypi, imatataq José rurachkan?
+Likran& hap'ichkan
+Kaypi, imatá José rurachkan?
+Warmita hap'ichkan
+Ana awanata hap’in. 
+0
+0
+1
+Kaypi, imatataq Ana ruran?
+Qharita tupachkan
+Kaypi, imatataq Ana ruran?
+Maki patanta tupakuchkan
+Ana q’ipita q’ipichikun.
+0
+1
+0
+Kaypi, imatataq Ana rurachkan?
+Q'ipirikuchkan
+Kaypiri, imatataq Ana rurachkan?
+Huqarikunayachkan
+José misturawan ch’aqpan. 
+1
+0
+0
+Imatataq kaypi José rurachkan
+Misturá& ch'aqpachkan
+Imatataq kaypi José rurachkan?
+xxx
+José umanta hap’in. 
+0
+1
+0
+Kaypiri, imatataq José rurachkan?
+Punkú& kichachkan
+Kaypiri, imatataq José rurachkan?
+Umán& tupakuchkan
+Ana wirawan mankata lluchhin. 
+0
+1
+0
+Kaypi, imatá Ana rurachkan?
+Makín& tupachkan
+Kaypi, imatá Ana rurachkan?
+Makín& tupakuchkan
+Ana uyanta uphachkan. 
+0
+0
+1
+Kaypi, imatataq Ana rurachkan?
+Uphakuchkan
+Kaypiri, imatá Ana rurachkan?
+Yakuta xxx
+José latusta mayllan.
+
+1
+0
+0
+Kaypiri, imatá José rurachkan?
+Chakín& mayllakuchkan
+Kaypiri, imatá José rurachkan?
+Chakín& Mayllachkan
+José chumpata puñuna pataman churan. 
+0
+1
+0
+Kaypiri, imatataq José rurachkan?
+hap'ichkan
+Kaypi, imatataq José rurachkan?
+Chumpa&n churakuchkan
+Ana makinta mayllakun. 
+1
+0
+0
+Kaypi, imatataq Ana ruran?
+Makín& mayllachkan
+Kaypi, imatataq Ana rurachkan? Imanachkanmi?
+T'aqsachkan [T'aqsachkan]
+José $sumbreruta churakun.
+0
+1
+0
+Kaypiri, imatá rurachkan José?
+$Sumbriru& churachkan
+Kaypi, imatá José rurachkan?
+Churachkan $sumbrirota
+Ana uhut'ata churan.
+1
+0
+0
+Kaypiri, imatataq rurachkan?
+Churakuchkan uhut'á&
+Kaypi, imatá Ana rurachkan?
+Churachkan uhut'anta
+José punchuta churakun.
+0
+1
+0
+Kaypi, imatá José rurachkan?
+Silla pataman churachkan
+Kaypi, imatá José rurachkan?
+Punchuchichkan [Ya. Kay tukunchik]
+Segmentación
+Carla Vargas Cruz
+110
+A
+Bolivia
+Collakamani
+13
+sexto
+quechua
+Tatay
+F
+MCC
+Chukcha-n-ta [ Ichaqa allinta rimamunki $ya Carlita? Kallpawan. Mana uyarichkanchu (Susan dice: $No $te $escucho) $Ya $ve, mana uyarichkanchu]
+xxx
+Yaku-ta xxx
+Análisis y traducción
+Carla Vargas Cruz
+110
+A
+Bolivia
+Collakamani
+13
+sexto
+quechua
+Tatay
+F
+MCC
+Cabello-3POS-AC "Su cabello" [Pero vas a hablar bien ¿Ya Carlita? Con fuerza. No se está escuchando (Susan dice: No te escucho) Ya ve, no se está escuchando]
+…
+Yaku-ta xxx "Al agua…"

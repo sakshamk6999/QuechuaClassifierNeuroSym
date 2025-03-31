@@ -1,0 +1,412 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por peruana JVO
+Margot Quispe Quispe
+13
+B
+Peru
+Ccotatoccla
+7
+segundo
+Quechua
+Turay Johan
+F
+13/7/2009
+1899-12-31T11:14:00.000
+11
+HPC
+Ana chukchanta rutun. 
+1
+0
+0
+¿kaypiri imatataq Ana rurachkan? ¿imatan kaypi Ana rurachkan?
+<no responde>
+¿kaypiri imatataq Ana rurachkan? ¿imatanhap'ichkan makinpi?
+tihera [ah kusa imatataq rurachkanri] ista cortando su cabello [kusa mantay]
+Ana uyanta makch’in. 
+1
+0
+0
+¿kaypiri imatan Ana rurachkan?
+<no responde>
+¿Ankaypiri imatan Ana rurachkan?
+ista lavando su cara
+José latusta mayllin. <pronuncia latuta>
+1
+0
+0
+¿kaypiri imata José rurachkan?
+ista lavando su pe
+¿kaypiri imatan José rurachkan?
+ista lavando su pie [runasimimanta][yachanki runasimita? Mana yachanchu]
+José chumpata puñuna pataman churan. 
+0
+1
+0
+¿kaypiri imata José rurachkan?
+<no responde> [atisqaykipi imapipis rimamuy] <no responde>
+¿ankaypiri imatataq José rurachkan?
+si esta poniendo su ropa
+Ana makinta mayllikun. 
+1
+0
+0
+¿kaypiri imata rurachkan Ana ?
+ista lavando su mano
+¿kaypiri imatan Ana... Ana rurachkan
+ista lavando su ropa
+José $sumbukuta churakun. 
+0
+1
+0
+¿kaypiri imatataq rurachkan?
+<no responde>
+¿kaypiri imatataq rurachkan?
+ista poniendo su sombero
+Ana uhut'ata churan.
+0
+1
+0
+¿kaypiri imatataq Ana rurachkan?
+si ista poniendo su ohota
+¿kaypiri imatataq Ana rurachkan?
+li ista poniendo su ohota
+José kukuchunta hap’ikun.
+1
+0
+0
+¿kaypiri imatataq  rurachkan José?
+ista llivando su libro
+¿kaypiri imatataq rurachkan? José?
+…[¿imatan José kaypi  rurachkan?] ista agarrando [kusa]
+Ana awanata hap’in. 
+0
+0
+1
+¿kaypiri imatataq Ana rurachkan?
+<no responde>
+¿kaypiri imatataq Ana rurachkan?
+<no responde>
+Ana q’ipita q’ipichikun.
+0
+0
+1
+¿kaypiri imatataq rurachkan?
+ista cargandose
+¿kaypiri imatataq rurachkan?
+ista haciendo cargar
+José misturawan hach’in. 
+0
+0
+1
+¿kaypiri imatan José rurachkan?
+mm…[imata rurachkan]…
+¿kaypiri imatan José rurachkan? …
+<no responde>
+José umanta hap’in. 
+0
+1
+0
+¿kaypiri imatataq rurachkan? …José
+ista abriendo su puerta
+¿kaypiri imatataq rurachkan José?
+ista agarrando su…cabello
+Ana wirawan mankata llusin. 
+0
+1
+0
+¿kaypiri imata rurachkan?
+mm…[kaypi imata rurachkan, imata kaypi rurachkan] asi ista haciendo (raspa la mesa con sus dedos)
+¿kaypiri imata rurachkan?
+ista caminando [um kusa]
+José punchuta churakun.
+0
+1
+0
+¿kaypiri imatataq José rurachkan?
+ista colgando poncho
+¿kaypiri imatataq José rurachkan?
+ista poniendo poncho[kusa panay]
+Ya kunanqa qhawasunchis, kaypin kachkan quchamantawan wallatamantawan willakuy, ima nichkanmantaq kaypiri (señalando el primer dialogo)
+<no responde>
+imataq kaypiri kachkan (señalando primera escena)
+patu
+imata rurachkan patukuna
+ista llorando
+kaypiri (señalando segunda escena) imata rurachkan
+ista huevo
+ankaypiri imakuna kachkan
+ista llevando huevo
+maymanta apamuran karan
+mm…señala el dibujo
+pin apachkan runtuta
+umm…perro
+kaypiri señalando tercera escena imata ima nichkanmanmi kaypi…waswa
+<no responde>
+imataq qhawachkan
+hueyvo
+kaypiri imata ima nichachkanmanmi imata kanman señala cuarta escena
+mm…ista mirando hueyvo
+kaypiri señalando ultima escena imakunari kachkan
+pato
+imatataq chaypi rurachkanku
+no hubp respuesta
+imata rurachkan imaynan kaypi kachkan runtukuna
+ista mirando hueyvo
+kusa munay mantay chayllan tukukapun
+Segmentación
+Margot Quispe Quispe
+13
+B
+Peru
+Ccotatoccla
+7
+segundo
+Quechua
+Turay Johan
+F
+HPC
+tihera [ah kusa imatataq rurachkanri] ista cortando su cabello [kusa mantay]
+<no responde>
+<no responde> [atisqaykipi imapipis rimamuy] <no responde>
+<no responde>
+<no responde>
+Análisis y traducción
+Margot Quispe Quispe
+13
+B
+Peru
+Ccotatoccla
+7
+segundo
+Quechua
+Turay Johan
+F
+HPC
+tihera [ah kusa imatataq rurachkanri] está cortando su cabello [kusa mantay]
+<no responde>
+está lavando su cara "Está lavándose la cara."
+está lavando su pie "Está lavándose el pie."
+está lavando su pie "Está lavándose el pie."[runasimimanta][yachanki runasimita? Mana yachanchu]
+<no responde> [atisqaykipi imapipis rimamuy] <no responde>
+se está poniendo su ropa "Está poniéndose su ropa." 
+está lavando su mano "Le está lavando la mano."
+está lavando su ropa 
+<no responde>
+está poniendo su sombrero "Le está poniendo su sombrero."
+se está poniendo su ohota 
+le está poniendo su ohota
+está llevando su libro
+…[¿imatan José kaypi  rurachkan?]está agarrando [kusa]
+está cargándose
+está haciendo cargar
+<no responde>
+está abriendo su puerta
+está agarrando su…cabello
+mm…[kaypi imata rurachkan, imata kaypi rurachkan] así está haciendo (frota la mesa con sus dedos)
+está caminando [um kusa]
+está colgando poncho "Está colgando el poncho."
+está poniendo poncho "Le está poniendo el poncho." [kusa panay]

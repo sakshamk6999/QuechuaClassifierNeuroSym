@@ -1,0 +1,402 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por boliviano AQV
+Santos Guaray U
+67
+B
+Bolivia
+Jatun Churicana
+9
+segundo
+Quechua
+mana
+M
+CPA
+Ana chukchanta rutun. 
+Kaypiri, imatá ruwachkan Ana?
+Millmata
+Kaypiri?
+Simp'akuchkan [Allin pacha. Simp'anta k'uturikuchkan]
+Sinchiwan parlawanki ya? Ana uyanta uphachkan. 
+Kaypiri, imatá ruwachkan Ana?
+Makinpi yakuta hap'ichkan
+Kaypiri?
+Mayllan
+José latusta mayllan.
+
+Kaypiri, imatá ruwachkan José?
+Chakin mayllakuchkan
+Kaypiri?
+Chakinta mayllan [Allin pacha]
+Kaytañataq rikuchisunchis allinta. José chumpata puñuna pataman churan. 
+Kaypiri, imatá ruwachkan José?
+Catre pataman churachkan chumpanta
+Kayri?
+Likrakuchan (parece decir) [Allin pacha]
+Kaytañataq qhawarikusunchis allinta. Ana makinta mayllakun. 
+Kaypiri, imatá ruwachkan Ana?
+Mayllakun. Mayllachkan. Yakuta hap'in
+Kaypiri?
+Kaytañataq qhawarisunchis. José $sumbreruta churakun.
+Kaypiri, imata ruwachkan José?
+$sumbrirun& lluch'ukuchkan
+Kaypiri?
+Churachkan [Uhum]
+Kayta qhawarisunchis allinta. Ana uhut'ata churan.
+Kaypiri, imatá ruwachkan Ana?
+Uhut'anta churakun
+Kayri?
+. Qhawankiraq allinta, chantá kutichiwanki
+Qhawanki allinta kimsantinta chantaraq rikuchiwanki. José makimuqunta hap’ikun.
+Kay`piri, imatá ruwachkan José?
+Libruta haywan
+Kaypiri?
+T'akachkan xxx libruta
+Kayta qhawasunchis. Ana awanata hap’in. 
+Allinta qhawanki rikuchinawaykipaq. Kaypi, imatá ruwachkan Ana?
+xxx
+Kaypiri?
+Awachkan [Awachkan, ya. Allin pacha +
+Allintaraq rikunki ya? Chanta rikluchiwanki. Ana q’ipita q’ipichikun.
+Kaypiri, imatá ruwachkan Ana?
+Q'ipirichikuchkan
+Kaypiri?
+Q'ipirikuchkan [Allin pacha]
+Qhawasunraq kayta allinta. Qhawariy kayta, qhawariy kayta, qhawariy kayta mana kikinchu kanku, ichari? José misturawan ch’aqpan. 
+Kaypi, kaypiri, imatá ruwachkan José?
+misturawan ch¡aqpachkan
+Kayri?
+Qhallirikuchkan
+José umanta hap’in. 
+Kaypiri, imatá ruwachkan José?
+Punkuta kichachkan
+Kaypiri?
+Umanta tupakuchkan
+Kaytañataq qhawarisunchis. Ana wirawan mankata lluchhin. <El niño señala "a" y MCP dice: haber uyariy má: Ana wirawan mankanta lluchhin. Mayqintaq? Y el niño vuelve a señalar "a">
+Kaypiri, imatá ruwachkan Ana?
+Mankata aysan
+Kaypiri, imatá ruwachkan Ana?
+Richkan [Ima] Richkan [Richkan? Ya. Allin pacha
+Kaytañataq qhawarisunchis. Waturisunchis. José punchuta churakun.
+Kaypi, imatá ruwachkan José?
+Churakuchkan
+Kayri?
+Churachkan [Ya. Allin pacha. Chaylla Santos. Pachi]
+Transcripción por peruana JVO
+Santos Guaraya U.
+67
+B
+Bolivia
+Jatun Churicana
+9
+segundo
+Quechua
+mana
+M
+27/7/2009
+1899-12-31T14:52:00.000
+9
+CPA
+Ana chukchanta rutun. 
+Kaypiri, imatá ruwachkan Ana?
+Millma-xxx
+Kaypiri?
+Simp'anta kuchukuchkan [Allin pacha. Simp'anta k'uturikuchkan] <pronuncia -ha- progresivo>
+Sinchiwan parlawanki ya? Ana uyanta uphachkan. 
+Kaypiri, imatá ruwachkan Ana?
+Makinpi yaku& hap'ichkan <JVO: pronuncia -shan>
+Kaypiri?
+Mayllachkan <pronuncia -ha- progresivo>
+José latusta mayllan.
+
+Kaypiri, imatá ruwachkan José?
+Chakin& maqchikuchkan
+Kaypiri?
+Chakinta maqchin [Allin pacha]
+Kaytañataq rikuchisunchis allinta. José chumpata puñuna pataman churan. 
+Kaypiri, imatá ruwachkan José?
+Catre pataman churachkan chumpanta
+Kayri?
+Llikllakuchkan [Allin pacha]
+Kaytañataq qhawarikusunchis allinta. Ana makinta mayllakun. 
+Kaypiri, imatá ruwachkan Ana?
+Mayllakun. Mayllachkan. Yakuta hap'isuchkanku
+Kaypiri?
+Papata mayllachkan <pronuncia -ha- progresivo>
+Kaytañataq qhawarisunchis. José $sumbreruta churakun.
+Kaypiri, imata ruwachkan José?
+$sumbrirun& lluch'ukuchkan
+Kaypiri?
+Churachkan [Uhum]
+Kayta qhawarisunchis allinta. Ana uhut'ata churan.
+Kaypiri, imatá ruwachkan Ana?
+Uhut'anta churakuchkan <pronuncia -ha- progresivo>
+Kayri?
+Churachkan. (¡Eso! Allinpacha)
+Qhawanki allinta kimsantinta chantaraq rikuchiwanki. José makimuqunta hap’ikun.
+Kaypiri, imatá ruwachkan José?
+Libruta haywachkan <pronuncia -ha- progresivo>
+Kaypiri?
+T'akachkan xxx libruta
+Kayta qhawasunchis. Ana awanata hap’in. 
+Allinta qhawanki rikuchinawaykipaq. Kaypi, imatá ruwachkan Ana?
+Hamuy nichkan
+Kaypiri?
+Awachkan [Awachkan, ya. Allin pacha)
+Allintaraq rikunki ya? Chanta rikluchiwanki. Ana q’ipita q’ipichikun.
+Kaypiri, imatá ruwachkan Ana?
+Q'ipirichikuchkan
+Kaypiri?
+Q'ipirikuchkan [Allin pacha]
+Qhawasunraq kayta allinta. Qhawariy kayta, qhawariy kayta, qhawariy kayta mana kikinchu kanku, ichari? José misturawan ch’aqpan. 
+Kaypi, kaypiri, imatá ruwachkan José?
+misturawan ch'aqpachkan
+Kayri?
+Qhallirikuchkan
+José umanta hap’in. 
+0
+1
+0
+Kaypiri, imatá ruwachkan José?
+Punkuta kichachkan
+Kaypiri?
+Umanta tupakuchkan
+Kaytañataq qhawarisunchis. Ana wirawan mankata lluchhin. <El niño señala "a" y MCP dice: haber uyariy má: Ana wirawan mankanta lluchhin. Mayqintaq? Y el niño vuelve a señalar "a">
+Kaypiri, imatá ruwachkan Ana?
+Mankata aysan
+Kaypiri, imatá ruwachkan Ana?
+Richkan [Ima] Richkan [Richkan? Ya. Allin pacha]
+Kaytañataq qhawarisunchis. Waturisunchis. José punchuta churakun.
+Kaypi, imatá ruwachkan José?
+Churakuchkan
+Kayri?
+Churachkan [Ya. Allin pacha. Chaylla Santos. Pachi]
+Segmentación
+Santos Guaray U
+67
+B
+Bolivia
+Jatun Churicana
+9
+segundo
+Quechua
+mana
+M
+CPA
+Millma-xxx
+Análisis y traducción
+Santos Guaray U
+67
+B
+Bolivia
+Jatun Churicana
+9
+segundo
+Quechua
+mana
+M
+CPA
+lana-xxx "lana…"

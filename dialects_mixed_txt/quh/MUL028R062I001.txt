@@ -1,0 +1,448 @@
+Nombre
+Numero
+Plantilla
+Pais
+Comunidad
+Edad (años)
+Grado
+Primer idioma
+Hay alguien que te habla en castellano?
+Sexo
+Fecha
+Hora
+Duracion en minutos
+Entrevistador
+Frase estímulo        Ana chukchanta rutun
+CHUKCHA A
+CHUKCHA B
+CHUKCHA C
+Pregunta chuckcha A
+Respuesta chukcha A
+Pregunta chukcha B
+Respuesta chukchaB
+Pregunta chukcha C
+Respuesta chukchaC
+Frase estímulo José kukuchunta/makimuqunta hap’ikun.
+KUKUCHU A
+KUKUCHU B
+KUKUCHU C
+Pregunta kukuchu A
+Respuesta kukuchuA
+Pregunta kukuchu B
+Respuesta kukuchuB
+Pregunta kukuchu C
+Respuesta kukuchu C
+Frase estímulo Ana awanata hap’in.
+AWANA A
+AWANA B
+AWANA C
+Pregunta awana A
+Respuesta awana A
+Pregunta awana B
+Respuesta awana B 
+Pregunta awana C
+Respuesta awana C
+Frase estímulo Ana q’ipita q’ipichikun.
+Q'IPI A
+Q'IPI B
+Q'IPI C
+Pregunta q'ipita A
+Respuesta q'ipita A
+Pregunta q'ipita B
+Respuesta q'ipita B
+Pregunta q'ipita C
+Respuesta q'ipita C
+Frase estímulo José misturawan hach’in/ch'aqpan.
+MISTURA A
+MISTURA B
+MISTURA C
+Pregunta mistura A
+Respuesta mistura A
+Pregunta mistura B
+Respuesta mistura B
+Pregunta mistura C
+Respuesta mistura C
+Frase estímulo José umanta hap’in. 
+UMA A
+UMA B
+UMA C
+Pregunta uma A
+Respuesta uma A
+Pregunta uma B
+Respuesta uma B
+Pregunta uma C
+Respuesta uma C
+Frase estímulo Ana wirawan mankata llusin/lluchhin.
+MANKA A
+MANKA B
+MANKA C
+Pregunta mankata A
+Respuesta mankata A
+Pregunta mankata B
+Respuesta mankata B
+Pregunta mankata C
+Respuesta mankata C
+Frase estímulo Ana uyanta makch'in/uphachkan.
+UYA A
+UYA B
+UYA C
+Pregunta uya A
+Respuesta uya A
+Pregunta uya B
+Respuesta uya B
+Pregunta uya C
+Respuesta uya C
+Frase estímulo José latusta mayllin/mayllan.
+LATUS A
+LATUS B
+LATUS C
+Pregunta latu A
+Respuesta latu A
+Pregunta latu B
+Respuesta latu B
+Pregunta latu C
+Respuesta latu C
+Frase estímulo José chumpata puñuna pataman churan. 
+CHUMPA A
+CHUMPA B
+CHUMPA C
+Pregunta chumpa A
+Respuesta chumpa  A
+Pregunta chumpa B
+Respuesta chumpa B
+Pregunta chumpa C
+Respuesta chumpa C
+Frase estímulo Ana makinta mayllikun/mayllakun.
+MAKI A
+MAKI B
+MAKI C
+Pregunta maki A
+Respuesta maki A
+Pregunta maki B
+Respuesta maki B
+Pregunta maki C
+Respuesta maki C
+Frase estímulo José sumbukuta/sumbreruta churakun.
+SUMBUKU A
+SUMBUKU B
+SUMBUKU C
+Pregunta $sumbuku A
+Respuesta $sumbuku A
+Pregunta $sumbuku B
+Respuesta $sumbuku B
+Pregunta $sumbuku C
+Respuesta $sumbuku C
+Frase estímulo  Ana uhut'ata churan.
+UHUT'A A
+UHUT'A B
+UHUT'A C
+Pregunta uhut'a A
+Respuesta uhut'a A
+Pregunta uhut'a B
+Respuesta uhut'a B
+Pregunta uhut'a C
+Respuesta uhut'a C
+Frase estímulo José punchuta churakun.
+PUNCHU A
+PUNCHU B
+PUNCHU C
+Pregunta punchu A
+Respuesta punchu A
+Pregunta punchu B
+Respuesta punchu B
+Pregunta punchu C
+Respuesta punchu C
+Cuento entrev.
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño
+cuento entrev
+cuento niño (a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+cuento niño(a)
+cuento entrev
+Transcripción por boliviano AQV
+Marlene Roque 
+62
+A
+Bolivia
+Jatun Churicana
+<dice 3 pero aparenta 5 o 6>
+primero
+Quechua
+Mana
+F
+CPA
+Kaytañataq qhawarisunchis. Maypitaq: Ana chukchanta rutun, nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan Ana? [Imatá ruwachkan. Willariway a. Imatá ruwachkan kaypi Anita ? Imatá hap'irichkan? Riqsinkichu kay uywata manachu? Mana i?]
+No hay respuesta
+Kayri?
+Tiherata [Tiherata. Imatá ruwachkan tiherawan a?] K'utuchkan [Imatachus i?
+Kaytañataq qhawasunchis allinta. Maypichá: José makimuqunta hap’ikun.
+Kaypiri, imatá ruwachkan José? [Willariway. Imatá ruwachkan?]
+hap'ichkan [Imatá hap'ichkan? Imatá hap'0ichkan? Imachus i? Cuadernochá i?]
+Kaypiri, imatá ruwachkan?
+… [Ima?] (La niña señalando el gráfico) Kayta hap'ichkan [A, ya. Allin pacha] (Se escucha una voz que dice: "La única pregunta va ser IMATA RUWAchkaN? Ninguna otra pregunta)
+Qhawallaypuni. Ana awanata hap’in. 
+Kaypiri, imatá ruwachkan Ana?
+… hap'ichkan
+Kaypiri?
+Hap'illachkantaq
+Kaypiri? Qhawarisunchis. Ana q’ipita q’ipichikun nin. <entrevistadora agrega nin al estimulo> 
+Kaypiri, imatá ruwachkan Ana?
+Q'ipirikuchkan
+Kaypiri, imatá ruwachkan? Je,he. Imatá ruwachkan kaypi Ana?
+Q'ipirikullachkantaq
+Kayta qhawarisunchis. Qhawariy. José misturawan ch’aqpan nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José?
+Ch'aqpachkan kay umanman
+Kaypiri?
+Ch'aqpakuchkan [Eso. Eso. Allin pacha]
+José umanta hap’in nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan? Qhawaririy a. Imatá ruwachkan chay José?
+Hap'ichkan [Ya]
+Kaypiri?
+Umanta hap'ichkan [Eso. Allin pacha] a
+Kaytañataq qhawarisunchis. Ana wirawan mankata lluchhin. 
+Kaypiri, imatá ruwachkan Ana?
+Makinta hap'ichkan
+Kaypiri? Imatá ruwachkan Ana?
+Mankata hap'ichkan
+Kaytañataq qhawarisunchis. Waturisunchis. Qhawariy má? Qhawariy kimsantinta. Ana uyanta uphachkan nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan Ana?
+Uphakuchkan
+Kaypiri, imatá ruwachkan ana?
+Uphachkan
+Kaypi, qhawarina má. José latusta mayllan nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José?
+Chaklnta mayllakuchkan
+Kayri?
+Mayllachkan chakinta
+Allin parlariwanki. Kunan qhawariy kaytañataq. Kimsantinta. José chumpata puñuna pataman churan nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José?
+P'achata churachkan catre pataman
+Kaypiri?
+Tiyachkan, chumpan churakuchkan
+Kaytañataq qhawarisunchis ya? Kaypi qhawarina, imataraq ruwachkanku. Ana makinta mayllakun nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan Ana?
+Mayllakuchkan makinta
+Kaypiri? Imatá ruwachkan Ana?
+Tiyachkan
+Kaypiri? Qhawariy má kimsantinta? José $sumbreruta churakun nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan?
+Sombreruta hap'ichkan
+Kaypiri?
+Churachkan sombreruta [Allin pacha]
+Ana uhut'ata churan nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan Ana?
+Uhut'anta churakuchkan
+Kaypiri?
+Churachklan Uhut'anta [Ya. Allin pacha]
+Kayllaña karichkan. Qhawariy allinta. Kayta kaykunata qhawariy. José punchuta churakun nin. <entrevistadora agrega nin al estimulo>
+Kaypiri, imatá ruwachkan José?
+Nata. Chumpanta hap'ichkan
+Kaypiri?
+Llikllachichkan [Eso, muy bien. Chaylla Marlene. Tukurpanchikña. Allinta parlapayawanki]
+Transcripción por peruana JVO
+Marlene Roque 
+62
+A
+Bolivia
+Jatun Churicana
+<dice 3 pero aparenta 5 o 6>
+primero
+Quechua
+Mana
+F
+27/7/2009
+1899-12-31T14:02:00.000
+10
+CPA
+Kaytañataq qhawarisunchis. Maypitaq: Ana chukchanta rutun, nin. <entrevistadora agrega nin al estimulo>
+1
+0
+0
+Kaypiri, imatá ruwachkan Ana? [Imatá ruwachkan. Willariway a. Imatá ruwachkan kaypi Anita ? Imatá hap'irichkan? Riqsinkichu kay uywata manachu? Mana i?] <SK: entrevistadora agrega demasiado a la pregunta pero no influye porque la niña no responde>
+No hay respuesta
+Kayri?
+Tiherata [Tiherata. Imatá ruwachkan tiherawan a?] K'utuchkan [Imatachus i?] <SK: entrevistadora agrega demasiado a la pregunta>
+Kaytañataq qhawasunchis allinta. Maypichá: José makimuqunta hap’ikun.
+1
+0
+0
+Kaypiri, imatá ruwachkan José? [Willariway. Imatá ruwachkan?]
+hap'ichkan [Imatá hap'ichkan? Imatá hap'ichkan? Imachus i? Cuadernochá i?] <SK: entrevistadora agrega demasiado a la pregunta pero no influye porque la niña no responde>
+Kaypiri, imatá ruwachkan?
+xxx [Ima?] (La niña señalando el gráfico) Kayta hap'ichkan [A, ya. Allin pacha. Se escucha una voz que dice: "La única pregunta va ser IMATA RUWAchkaN? Ninguna otra pregunta)]
+Qhawallaypuni. Ana awanata hap’in. 
+0
+0
+1
+Kaypiri, imatá ruwachkan Ana?
+Awanata hap'ichkan
+Kaypiri?
+Hap'illachkantaq 
+Kaypiri? Qhawarisunchis. Ana q’ipita q’ipichikun nin. <entrevistadora agrega nin al estimulo> 
+0
+1
+0
+Kaypiri, imatá ruwachkan Ana?
+Q'ipirikuchkan
+Kaypiri, imatá ruwachkan? Je,he. Imatá ruwachkan kaypi Ana?
+Q'ipirikullachkantaq
+Kayta qhawarisunchis. Qhawariy. José misturawan ch’aqpan nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan José?
+Ch'aqpachkan kay mamanman
+Kaypiri?
+Ch'aqpakuchkan [Eso. Allin pacha]
+José umanta hap’in nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan? Qhawaririy a. Imatá ruwachkan chay José?
+hap'ichkan [Ya]
+Kaypiri?
+Umanta hap'ichkan [Eso. Allin pacha a]
+Kaytañataq qhawarisunchis. Ana wirawan mankata lluchhin. 
+0
+1
+0
+Kaypirí, imata ruwachkan Ana?
+Makinta hap'ichkan
+Kaypiri? Imatá ruwachkan Ana?
+Rukata hap'ichkan
+Kaytañataq qhawarisunchis. Waturisunchis. Qhawariy má? Qhawariy kimsantinta. Ana uyanta uphachkan nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan Ana?
+Uphakuchkan
+Kaypiri, imatá ruwachkan ana?
+Uphachkan
+Kaypi, qhawarina má. José latusta mayllan nin. <entrevistadora agrega nin al estimulo>
+
+1
+0
+0
+Kaypiri, imatá ruwachkan José?
+Chakinta mayllakuchkan
+Kayri?
+Mayllachkan chakinta
+Allin parlariwanki. Kunan qhawariy kaytañataq. Kimsantinta. José chumpata puñuna pataman churan nin. <entrevistadora agrega nin al estimulo>
+1
+0
+0
+Kaypiri, imatá ruwachkan José?
+P'achata churachkan catre pataman
+Kaypiri?
+Tiyachkan, chumpan&  churakuchkan
+Kaytañataq qhawarisunchis ya? Kaypi qhawarina, imataraq ruwachkanku. Ana makinta mayllakun nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan Ana?
+Mayllakuchkan makinta
+Kaypiri? Imatá ruwachkan Ana?
+Tiyachkan
+Kaypiri? Qhawariy má kimsantinta? José $sumbreruta churakun nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan?
+Sombreruta hap'ichkan
+Kaypiri?
+Churachkan sombreruta [Allin pacha]
+Ana uhut'ata churan nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan Ana?
+Uhut'anta churakuchkan
+Kaypiri?
+Churachkan Uhut'anta [Ya. Allin pacha]
+Kayllaña karichkan. Qhawariy allinta. Kayta kaykunata qhawariy. José punchuta churakun nin. <entrevistadora agrega nin al estimulo>
+0
+1
+0
+Kaypiri, imatá ruwachkan José?
+Nata. Chumpanta hap'ichkan
+Kaypiri?
+Llikllachichkan [Eso, muy bien. Chaylla Marlene. Tukurpanchikña. Allinta parlapayawanki]
+Segmentación
+Marlene Roque 
+62
+A
+Bolivia
+Jatun Churicana
+<dice 3 pero aparenta 5 o 6>
+primero
+Quechua
+Mana
+F
+CPA
+Awanata hap'ichkan
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan? Qhawaririy a. Imatá ruwachkan chay José?
+hap'i-chka-n [$Ya]
+Kaypiri, imatá ruwachkan Ana?
+Tiya-chka-n
+Análisis y traducción
+Marlene Roque 
+62
+A
+Bolivia
+Jatun Churicana
+<dice 3 pero aparenta 5 o 6>
+primero
+Quechua
+Mana
+F
+CPA
+Kaypiri, imatá ruwachkan José? Imatá ruwachkan? Qhawaririy a. Imatá ruwachkan chay José?
+Kaypiri, imatá ruwachkan Ana?
+Sentar-PROG-3SUJ "Está sentada."
+Churachklan Uhut'anta [Ya. Allin pacha]
