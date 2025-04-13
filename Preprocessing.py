@@ -173,7 +173,7 @@ def createDataset():
     if not os.path.exists('chunked_data.csv'):
         createChunkedDf()
     
-    dataset = QuechuaDataset('chunked_data.csv', node2index, child2parent)
+    dataset = QuechuaDataset.QuechuaDataSet('chunked_data.csv', node2index, child2parent)
 
     print("Created dataset of length", len(dataset))
 
