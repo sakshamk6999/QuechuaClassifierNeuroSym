@@ -1,1 +1,3 @@
 .DS_Store
+chunked_data.csv
+__pycache__/

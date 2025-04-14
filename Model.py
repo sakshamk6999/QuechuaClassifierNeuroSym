@@ -1,16 +1,9 @@
 
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer,  DataCollatorWithPadding, AutoModel
-from transformers import get_scheduler
+from transformers import AutoModel
 import torch
 import torch.nn as nn
-import torch.optim as optim
-import numpy as np
-import pandas as pd
-import os
-import re
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
-from torch.utils.data import DataLoader, RandomSampler, Dataset, ConcatDataset, random_split
 from torch.nn.utils.rnn import pad_sequence
+from Preprocessing import node2index, get_hierarchy
 
 class QuechuaClassifier(nn.Module):
     def __init__(self):
@@ -25,11 +18,11 @@ class QuechuaClassifier(nn.Module):
       return output
 
 class QuechuaClassifierStudent(nn.Module):
-  def __init__(self):
+  def __init__(self, device):
     super(QuechuaClassifierStudent, self).__init__()
     self.quechuaClassifier = QuechuaClassifier()
     # self.classifier = nn.Linear(38, 38)
-    self.rule_calculation = Regularization_Layer()
+    self.rule_calculation = Regularization_Layer(device)
 
   def forward(self, input_ids, attention_mask):
     # print("input_ids shape", input_ids.shape, "attention_mask", attention_mask.shape)
@@ -49,12 +42,13 @@ class QuechuaClassifierStudent(nn.Module):
 import torch.nn.functional as F
 
 class CustomLoss(nn.Module):
-  def __init__(self):
+  def __init__(self, device):
     super(CustomLoss, self).__init__()
     self.BCE = nn.BCEWithLogitsLoss()
     self.KLDiv = F.kl_div
     self.teacher_loss = 0
     self.student_loss = 0
+    self.device = device
 
   def get_loss(self):
     return self.teacher_loss, self.student_loss
@@ -66,7 +60,7 @@ class CustomLoss(nn.Module):
     regularized_logits = torch.sigmoid(logits[:, 38:])
 
     bceLoss = self.BCE(student_logits, labels.float())
-    totalKldLoss = torch.tensor(0.0).to(device)
+    totalKldLoss = torch.tensor(0.0).to(self.device)
     self.student_loss = bceLoss
     # print("student_logits_sigmoid", student_logits_sigmoid.requires_grad)
     # print("student_logits", student_logits.shape, "regularized_logits", regularized_logits.shape)
@@ -85,3 +79,41 @@ class CustomLoss(nn.Module):
 
     return bceLoss + totalKldLoss
     # return totalKldLoss
+
+class Regularization_Layer:
+  def __init__(self, device):
+    self.device = device
+    self.child2parent = get_hierarchy()
+
+  def regularize_logits(self, logits, reg_whole):
+    total_score = torch.zeros_like(logits).to(self.device)
+
+    for d in node2index.keys():
+      if self.child2parent[d] is None:
+        continue
+
+      curr_logits = torch.zeros_like(logits).to(self.device)
+
+      curr_logits[:, node2index[d]] = 1
+
+      probab_node = logits * curr_logits
+
+      parent_logits = torch.zeros_like(logits).to(self.device)
+
+      parent_logits[:, node2index[self.child2parent[d]]] = 1
+
+      probab_parent = logits * parent_logits
+
+      #add reg here
+      score = 1 - torch.minimum(1 - logits[:, node2index[d]] + logits[:, node2index[self.child2parent[d]]], torch.ones_like(logits[:, node2index[d]]))
+
+      response_logits = torch.zeros_like(logits).to(self.device)
+      response_logits[:, node2index[d]] = score
+
+      total_score += response_logits
+
+    total_score = total_score * reg_whole
+
+    clipped_rules = torch.clamp(total_score, -60, 60)
+    # print("clipped_rules", clipped_rules)
+    return torch.exp(-1*clipped_rules)

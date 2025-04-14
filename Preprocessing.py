@@ -162,14 +162,17 @@ def createChunkedDf():
     
     dialect_data_df.to_csv('chunked_data.csv', index=False)
 
-
-def createDataset():
+def get_hierarchy():
     child2parent = defaultdict(lambda: None)
     for parent, children in hierarchy.items():
-        print(parent, children)
         for child in children:
             child2parent[child] = parent
-    
+
+    return child2parent
+
+def createDataset():
+    child2parent = get_hierarchy()
+
     if not os.path.exists('chunked_data.csv'):
         createChunkedDf()
     

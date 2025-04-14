@@ -2,25 +2,37 @@ from sklearn.metrics import f1_score
 import torch
 import numpy as np
 
-def evaluateF1Samples(model, dataset, label):
-  model.eval()
+def evaluateF1(model, dataset, device):
+    model.eval()
 
-  predicitons = []
-  actual_np = []
+    all_predictions = []
 
-  with torch.no_grad():
-    for i in range(len(dataset)):
-      prediction = model(dataset[i]['input_ids'].to(device), dataset[i]['attention_mask'].to(device))
-      predicitons.append(prediction)
-      actual_np.append(dataset[i][label].numpy())
+    all_actual = []
 
-    print(predicitons)
-    predcition_tensor = torch.sigmoid(torch.stack(predicitons).squeeze(1))
-    predicted_labels_np = torch.where(predcition_tensor > 0.5, 1, 0).cpu().numpy()
-    actual_np = np.array(actual_np)
+    with torch.no_grad():
+        for i in range(len(dataset)):
+            # print("shapes are", dataset[i]['input_ids'].shape)
+            outputs = model(dataset[i]['input_ids'].to(device), dataset[i]['attention_mask'].to(device))
 
-    print("prediction", predicted_labels_np.shape, "actual", actual_np.shape)
+            all_predictions.append(outputs[:,:38])
+            all_actual.append(dataset[i]['targetLabels'].numpy())
 
-    f1_avg_score_samples = f1_score(actual_np, predicted_labels_np, average='samples')
+    all_predictions_tensor = torch.sigmoid(torch.stack(all_predictions).squeeze(1))
+    all_predictions_labels_np = torch.where(all_predictions_tensor > 0.5, 1, 0).cpu().numpy()
+    all_actual_np = np.array(all_actual)
 
-    return f1_avg_score_samples
+    # print(all_actual_np.shape, all_predictions_labels_np.shape)
+    f1_score_all_micro = f1_score(all_actual_np, all_predictions_labels_np, average='micro')
+    f1_score_all_macro = f1_score(all_actual_np, all_predictions_labels_np, average='macro')
+
+    # print(all_actual_np[:, 14:].shape, all_predictions_labels_np[:, 14:].shape)
+    f1_dialect_score_micro = f1_score(all_actual_np[:, 14:], all_predictions_labels_np[:, 14:], average='micro')
+    f1_dialect_score_macro = f1_score(all_actual_np[:, 14:], all_predictions_labels_np[:, 14:], average='macro')
+
+    return {
+        "overall": [f1_score_all_macro, f1_score_all_micro],
+        "dialect": [f1_dialect_score_macro, f1_dialect_score_micro]
+    }
+
+
+          
