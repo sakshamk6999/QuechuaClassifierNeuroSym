@@ -9,6 +9,8 @@ def checkpoint(model, filename):
     torch.save(model.state_dict(), filename)
 
 def main():
+  log_file = open("logs/logs.txt", "w")
+
   USE_CUDA = torch.cuda.is_available()
   device = torch.device("cuda" if USE_CUDA else "cpu")
 
@@ -34,6 +36,7 @@ def main():
   
   for epoch in range(5):
     print(f"Epoch: {epoch}")
+    log_file.write(f"Epoch: {epoch}\n")
     for i, data in enumerate(train_data_loader, 0):
       inputs = data
 
@@ -58,7 +61,8 @@ def main():
       optimizer.step()
 
       if i % 100 == 0:
-        print(f"Epoch: {epoch}, Batch: {i}, Loss: {loss.item()}")
+        print(f"\tEpoch: {epoch}, Batch: {i}, Loss: {loss.item()}")
+        log_file.write(f"Epoch: {epoch}, Batch: {i}, Loss: {loss.item()}\n")
   
     checkpoint(model, "checkpoints/model.pth")
     eval_result = evaluateF1(model, eval_dataset, device)
@@ -67,5 +71,10 @@ def main():
     print("epoch", epoch, "overall_f1", eval_result['overall'])
     print("epoch", epoch, "dialect_f1", eval_result['dialect'])
 
+    log_file.write(f"epoch: {epoch} overall_f1: {eval_result['overall']}\n")
+    log_file.write(f"epoch: {epoch} dialect_f1: {eval_result['dialect']}\n")
+
+  log_file.close()
+  
 if __name__ == "__main__":
     main()
