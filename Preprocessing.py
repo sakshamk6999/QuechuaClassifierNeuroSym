@@ -172,9 +172,8 @@ def get_hierarchy():
 
 def createDataset():
     child2parent = get_hierarchy()
-
-    if not os.path.exists('chunked_data.csv'):
-        createChunkedDf()
+    
+    createChunkedDf()
     
     dataset = QuechuaDataset.QuechuaDataSet('chunked_data.csv', node2index, child2parent)
 
