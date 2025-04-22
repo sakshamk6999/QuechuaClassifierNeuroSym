@@ -29,7 +29,7 @@ class QuechuaClassifierStudent(nn.Module):
     output = self.quechuaClassifier(input_ids, attention_mask)
     # print("output shape", output.shape)
     # print("output requires grad", output.requires_grad)
-    regularized = self.rule_calculation.regularize_logits(output, 1000)
+    regularized = self.rule_calculation.regularize_logits(output, 1)
     regularized = output * regularized
     # print("regularized requires grad", regularized.requires_grad)
 
