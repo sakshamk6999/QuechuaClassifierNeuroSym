@@ -73,8 +73,6 @@ def main():
   dataset = QuechuaDataSet('chunked_data.csv', node2index, child2parent)
 
   train_size = int(0.8 * len(dataset))
-
-  train_size = int(0.8 * len(dataset))
   test_size = len(dataset) - train_size
 
   # Use random_split to create the subsets
