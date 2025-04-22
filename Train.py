@@ -17,7 +17,7 @@ def training(training_data_size, train_data, test_data, device):
 
   customLoss = CustomLoss(device).to(device)
   model = QuechuaClassifierStudent(device).to(device)
-  optimizer = torch.optim.AdamW(model.parameters(), lr=3e-5)
+  optimizer = torch.optim.AdamW(model.parameters(), lr=1e-5)
 
   train_loss_history = []
   eval_f1_history = []
